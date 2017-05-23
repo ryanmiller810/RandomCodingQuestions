@@ -1,0 +1,16 @@
+C:\Users\rmiller\Documents\Visual Studio 2017\Projects\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\rmiller\Documents\Visual Studio 2017\Projects\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\rmiller\Documents\Visual Studio 2017\Projects\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\rmiller\Documents\Visual Studio 2017\Projects\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\rmiller\Documents\Visual Studio 2017\Projects\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\rmiller\Documents\Visual Studio 2017\Projects\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\rmiller\documents\visual studio 2017\Projects\ConsoleApp1\bin\Debug\amd64\libzmq.so
+C:\Users\rmiller\documents\visual studio 2017\Projects\ConsoleApp1\bin\Debug\amd64\libzmq.dll
+C:\Users\rmiller\documents\visual studio 2017\Projects\ConsoleApp1\bin\Debug\amd64\libsodium.so
+C:\Users\rmiller\documents\visual studio 2017\Projects\ConsoleApp1\bin\Debug\amd64\libsodium.dll
+C:\Users\rmiller\documents\visual studio 2017\Projects\ConsoleApp1\bin\Debug\i386\libzmq.so
+C:\Users\rmiller\documents\visual studio 2017\Projects\ConsoleApp1\bin\Debug\i386\libzmq.dll
+C:\Users\rmiller\documents\visual studio 2017\Projects\ConsoleApp1\bin\Debug\i386\libsodium.so
+C:\Users\rmiller\documents\visual studio 2017\Projects\ConsoleApp1\bin\Debug\i386\libsodium.dll
+C:\Users\rmiller\documents\visual studio 2017\Projects\ConsoleApp1\bin\Debug\ZeroMQ.dll
+C:\Users\rmiller\documents\visual studio 2017\Projects\ConsoleApp1\bin\Debug\ZeroMQ.xml
